@@ -1,0 +1,57 @@
+.mynav{
+    background-color: pink;
+}
+.btn{
+    background-color: pink;
+}
+
+
+.jumbotron {
+    margin-top: 50px;
+    background-image: url("https://images.pexels.com/photos/1068989/pexels-photo-1068989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    color: whitesmoke;
+    padding-block-end: 300px;
+}
+
+.display-4 {
+    font-size: 120px;
+    font-family: cursive;
+}
+
+.block {
+    display: inline-block;
+    margin-left: 250px;
+ 
+}
+
+.contact {
+    display: inline-block;
+    margin-left: 210px;
+    margin-top: 50px;
+ 
+}
+
+.section {
+    color: pink;
+}
+
+.btn-primary {
+    display: inline-block;
+    margin-left: 280px;
+}
+
+.mb-4 {
+    text-align: center;
+    color: pink;
+    font-family: cursive;
+}
+.container-fluid {
+    color:pink;
+    font-family: cursive;
+
+}
+
+body {
+    background-color:black;
+}
